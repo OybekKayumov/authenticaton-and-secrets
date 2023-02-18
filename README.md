@@ -9,6 +9,10 @@
   - Dotenv
   - Mongoose
   - Mongoose-encryption
+  - nodemon
+
+### "start" : "nodemon app.js"
+### npm start
   
   
   ## 2023 - 02
