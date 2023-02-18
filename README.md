@@ -8,6 +8,7 @@
   - EJS
   - Dotenv
   - MD5
+  - MongoDB
   - Mongoose
   - Mongoose-encryption
   - nodemon
