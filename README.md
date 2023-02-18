@@ -8,10 +8,11 @@
   - EJS
   - Dotenv
   - MD5
+  - Bcrypt
   - MongoDB
   - Mongoose
   - Mongoose-encryption
-  - nodemon
+  - Nodemon
 
 ### "start" : "nodemon app.js"
 ### npm start
