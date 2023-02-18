@@ -5,8 +5,9 @@
   - HTML
   - JavaScript
   - Express
-  - EJS,
+  - EJS
   - Dotenv
+  - MD5
   - Mongoose
   - Mongoose-encryption
   - nodemon
