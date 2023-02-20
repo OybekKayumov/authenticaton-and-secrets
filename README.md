@@ -14,6 +14,7 @@
   - Mongoose-encryption
   - Nodemon
 
+### npm install
 ### "start" : "nodemon app.js"
 ### npm start
   
